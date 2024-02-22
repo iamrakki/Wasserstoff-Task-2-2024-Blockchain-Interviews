@@ -33,11 +33,6 @@ A library for storing data related to load balancing and function delegation.
 
 ## How to Use
 
-### Prerequisites
-
-- [Truffle Suite](https://www.trufflesuite.com/docs/truffle/overview) installed.
-- [Ganache](https://www.trufflesuite.com/ganache) or any Ethereum client running locally or on a test network.
-
 ### Installation
 
 1. Clone the repository:
